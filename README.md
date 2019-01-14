@@ -8,9 +8,9 @@
 
 #
 
-| Project Name     | Source Code  |    Demo Link |
-| :--------------- | :----------: | -----------: |
-| [1]. JS Drum Kit |  More Stuff  |    And Again |
-| You Can Also     | Put Pipes In | Like this \| |
+| Project Name |                                                 Source Code                                                  |    Demo Link |
+| :----------- | :----------------------------------------------------------------------------------------------------------: | -----------: |
+| JS Drum Kit  | [click](https://github.com/BolajiAyodeji/JavaScript30-Projects/tree/master/01%20-%20JavaScript%20Drum%20Kit) |    And Again |
+| You Can Also |                                                 Put Pipes In                                                 | Like this \| |
 
 </div>
