@@ -2,3 +2,6 @@
 
 
 # JavaScript30 Projects
+
+## Day One 
+## JS DRUM KIT
