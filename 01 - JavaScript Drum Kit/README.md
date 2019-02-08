@@ -5,3 +5,4 @@
 
 ## Day One 
 ## JS DRUM KIT
+[Demo}(https://bolajiayodeji.github.io/JavaScript30-Projects/01%20-%20JavaScript%20Drum%20Kit/)
